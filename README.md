@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ohunyanc
-- 👀 I’m interested in web development
+- 👀 I’m interested in web development & data analysis
 - 🌱 I’m currently learning JavaScript and db
 - 💞️ I’m looking to collaborate on e-commerce projects 
 - 📫 How to reach me ohunyancharles@gmail.com
