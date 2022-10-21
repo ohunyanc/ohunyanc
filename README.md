@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ohunyanc
-- 👀 I’m interested in web development & data analysis
-- 🌱 I’m currently learning JavaScript and db
-- 💞️ I’m looking to collaborate on e-commerce & financial analysis projects 
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning JavaScript, API's and db systems
+- 💞️ I’m looking to collaborate on production level projects 
 - 📫 How to reach me ohunyancharles@gmail.com
 
 <!---
